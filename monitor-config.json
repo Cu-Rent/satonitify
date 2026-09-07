@@ -1,0 +1,18 @@
+{
+  "config": {
+    "target_username": "Satoshi-Awareness",
+    "target_room": "bitcoin",
+    "telegram_bot_token": "8621180550:AAHJFwtl9KVtuqmM1WpbjqXz-2n3UAfSNUA",
+    "telegram_chat_id": "-1004459944689",
+    "telegram_enabled": true,
+    "sound_enabled": true
+  },
+  "sentAlertIds": [
+    "sim-1788796968733-btac",
+    "1d20dae6-a9bb-4627-b7da-55d89df79332",
+    "d3265149-12bd-4b1d-a0a3-6ed2954b1b5f",
+    "1914f931-3160-49d7-a2f6-229adcff366e",
+    "15617efb-f55b-426d-9bf9-1c53098ff7ac",
+    "sim-1788797685814-erwm"
+  ]
+}

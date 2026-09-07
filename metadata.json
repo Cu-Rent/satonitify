@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Chat Alert & Telegram Bot",
+  "description": "Мониторинг публичного чата TradingView #bitcoin в реальном времени с мгновенными уведомлениями на сайте и в Telegram при сообщениях от Satoshi-Awareness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
